@@ -1,5 +1,5 @@
 [package]
-name = "mzCoin"
+name = "MZCoin"
 version = "0.0.0"
 
 [dependencies]
@@ -7,4 +7,4 @@ AptosFramework = { git = "https://github.com/aptos-labs/aptos-core.git", subdir 
 
 [addresses]
 std =  "0x1"
-mzCoinAddr="oxf"
+MZCoinAddr="0xf"
